@@ -23,7 +23,7 @@ npm run generate   # outputs to /dist  (fully static)
 
 | Host | URL |
 |------|-----|
-| Firebase / Vercel | *(deploy the `/dist` folder; URL updated after first deploy)* |
+| GitHub Pages | https://wemi2.github.io/intellitoggle-website/# |
 
 ---
 
